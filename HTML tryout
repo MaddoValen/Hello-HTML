@@ -1,5 +1,13 @@
 <html>
-
-
-
+<head>
+<title>Zelda</title>
+<link rel="icon" type="image/png" href="/favicon-32x32.png">
+<link rel="stylesheet" type="text/css" href="styles.css" />
+</head>
+<body>
+<h1>About the Zelda Games!<h1>
+<img src="zeldalogo.png" alt="Test Image" height="480" width="720">
+<h2>The Zelda Games<h2>
+<p style="font-size:16px">The Legend of Zelda was the very first Zelda game released. It centers its plot around a boy named Link, who becomes the central protagonist throughout the series. It came out as early as 1986 for the Famicom in Japan, and was later released in the western world, including Europe and the US in 1987. It has since then been re-released several times, for the Nintendo GameCube as well as the Game Boy Advance. The Japanese version of the game on the Famicom is known as The Hyrule Fantasy: The Legend of Zelda.</p>
+<a href="http://zeldawiki.org/The_Legend_of_Zelda_%28Game%29">Source</a>
 </html>
